@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/pauli-white-cv-profile.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/pauli-white-cv-profile"
+  to = "/"
+  status = 301
